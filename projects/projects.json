@@ -1,0 +1,32 @@
+[
+  {
+    "name": "ADITYA GOND",
+    "desc": "X (2022-23)                                                       He sorce 64.00%",
+    "image": "t3",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "AYUSHI MAURYA",
+    "desc": "XII-COMMERCE (2022-23)                             She sorce 93.30%",
+    "image": "t2",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "JAKIR ANSARI",
+    "desc": "XII-BIOLOGY (2022-23)                                   He sorce 81.80%",
+    "image": "t1",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
